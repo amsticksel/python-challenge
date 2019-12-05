@@ -1,0 +1,7 @@
+-----Financial Analysis-----
+----------------------------
+Total Months:      86 months
+Total Sum:         $38382578
+Average Change:    $-2315.12
+Greatest Increase: $1926159.00 on Jan-2012
+Greatest Decrease: $-2196167.00 on Aug-2013
